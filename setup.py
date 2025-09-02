@@ -9,7 +9,7 @@ def read_file(filename):
     return long_description
 
 setup(
-    name="LibcSearcher-ng",
+    name="LibcSearcher_ng",
     version="1.1.5",
     description="Python wrapper for libc-database.",
     author="IZAY01",
